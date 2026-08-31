@@ -11,6 +11,17 @@
       },
       "mode": "individual",
       "autograder": "default"
+    },
+    {
+      "slug": "intro-to-python",
+      "name": "Intro to Python",
+      "template": {
+        "owner": "Babson-Python-Fall2026",
+        "repo": "Intro-to-Python",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default"
     }
   ]
 }
